@@ -48,3 +48,13 @@
     color: #40E0D0;
     text-decoration: none;
 }
+
+.img-card-200 {
+    width: fit-content;
+    max-height: 200px;
+}
+
+.img-card-400 {
+    width: fit-content;
+    max-height: 400px;
+}
